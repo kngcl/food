@@ -17,8 +17,8 @@ I have a heart of love and an interest of lorem ipsum and mauris neque quam blog
 
 ### Built With
 
-- Html
-- Css
+- HTML
+- CSS
 
 ## Clone project
 
@@ -26,7 +26,7 @@ I have a heart of love and an interest of lorem ipsum and mauris neque quam blog
 - Clone this repository with `git@github.com:kngcl/food.git` using your terminal or command line.
 - Change to the project directory by entering: cd food in the terminal.
 
-## Command line steps
+## steps
 
 - $ git clone `git@github.com:kngcl/food.git`
 - $ `cd food`
@@ -35,7 +35,7 @@ I have a heart of love and an interest of lorem ipsum and mauris neque quam blog
 ## Start App
 
 - run `npm install`
-- run `npm start` in your command line
+- run `npm start` in your CLI
 
 ## Test
 
