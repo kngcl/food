@@ -28,7 +28,7 @@ I have a heart of love and an interest of lorem ipsum and mauris neque quam blog
 
 ## Command line steps
 
-- $ git clone `$ git@github.com:kngcl/food.git`
+- $ git clone `git@github.com:kngcl/food.git`
 - $ `cd food`
 - $ `git checkout feature`
 
