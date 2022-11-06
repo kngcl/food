@@ -54,7 +54,6 @@ span {
   text-align: center;
 }
 
-
 .pagination .page-2,
 .pagination .page-3,
 .pagination .page-4 {
@@ -97,7 +96,7 @@ footer {
 }
 
 footer h5 {
-  font-size: 20px
+  font-size: 20px;
 }
 
 .footer-pictures .picture {
