@@ -23,7 +23,7 @@ I have a heart of love and an interest of lorem ipsum and mauris neque quam blog
 ## Clone project
 
 - To get a local copy up and running follow these simple example steps.
-- Clone this repository with `git@github.com:kngcl/food.git` using your terminal or command line.
+- Clone this repository with `git@github.com:kngcl/food.git` using your terminal.
 - Change to the project directory by entering: cd food in the terminal.
 
 ## steps
