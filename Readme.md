@@ -15,38 +15,36 @@ I have a heart of love and an interest of lorem ipsum and mauris neque quam blog
 ![home](assets/images/home.png)
 ![about](assets/images/about.png)
 
-### Built With
+### Prerequisites
+
+Knowledge about:
 
 - HTML
 - CSS
-
+- Google chrome
+  
 ## Clone project
 
 - To get a local copy up and running follow these simple example steps.
-- Clone this repository with `git@github.com:kngcl/food.git` using your terminal.
+- Clone this repository with `https://github.com/kngcl/food` using your terminal.
 - Change to the project directory by entering: cd food in the terminal.
 
 ## steps
 
-- $ git clone `git@github.com:kngcl/food.git`
-- $ `cd food`
-- $ `git checkout feature`
+- $ git clone `https://github.com/kngcl/food`
+- $ `cd parallax`
+- $ `git checkout feature/footer`
 
 ## Start App
 
-- run `npm install`
-- run `npm start` in your CLI
-
-## Test
-
-- run `npm run food` to run food
+- run by opening the index.html in the browser
 
 ## Author
 
 👤 **kngcl**
 
-- GitHub: [@kngcl](git@github.com:kngcl/food.git)
+- GitHub: [@kngcl](https://github.com/kngcl/food)
 
-## 📝 License (optional)
+## 📝 License
 
 This project is [w3school](./LICENSE) licensed.
