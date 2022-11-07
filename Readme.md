@@ -39,7 +39,7 @@ I have a heart of love and an interest of lorem ipsum and mauris neque quam blog
 
 ## Test
 
-- run `npm run test` to run test
+- run `npm run food` to run food
 
 ## Author
 
