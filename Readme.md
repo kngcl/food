@@ -45,6 +45,12 @@ Knowledge about:
 
 - GitHub: [@kngcl](https://github.com/kngcl/food)
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/kngcl/food/issues).
+
 ## 📝 License
 
 This project is [w3school](./LICENSE) licensed.
