@@ -26,12 +26,12 @@ Knowledge about:
 ## Clone project
 
 - To get a local copy up and running follow these simple example steps.
-- Clone this repository with `https://github.com/kngcl/food` using your terminal.
+- Clone this repository with `git@github.com:kngcl/food.git` using your terminal.
 - Change to the project directory by entering: cd food in the terminal.
 
 ## steps
 
-- $ git clone `https://github.com/kngcl/food`
+- $ git clone `git@github.com:kngcl/food.git`
 - $ `cd parallax`
 - $ `git checkout feature/footer`
 
